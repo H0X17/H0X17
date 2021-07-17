@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @H0X17
+- 👀 I’m interested in  la programmation informatique
+- 🌱 I’m currently learning le pyton
+- 💞️ I’m looking to collaborate on ???
+- 📫 How to reach me ...
